@@ -1,4 +1,5 @@
 # Simulasi Pendinginan Benda (Hukum Pendinginan Newton)
+Mirza Adi Raffiansyah, 2306210323
 
 ## Metode Euler
 
